@@ -1,3 +1,7 @@
+Readme.MD:
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+
+Sbake.yml:
 name: Generate snake animation
 
 on:
@@ -8,7 +12,7 @@ on:
 
   push:
     branches:
-    - main
+    - master
 
 jobs:
   generate:
@@ -32,3 +36,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
