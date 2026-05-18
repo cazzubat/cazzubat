@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Atualmente, estou estudando desenvolvimento full stack na Infinity School, em Belo Horizonte, com foco em Python, JavaScript, HTML e CSS. Estou me preparando para iniciar minha carreira em tecnologia, buscando um estágio para aplicar meus conhecimentos e continuar aprimorando minhas habilidades em programação.</p>
+<p align="left">Concluí meu curso de desenvolvimento full stack na Infinity School, em Belo Horizonte, com foco em Python, JavaScript, HTML e CSS. Atualmente, sigo aprimorando minhas habilidades em programação e busco uma oportunidade de estágio para adquirir experiência prática e iniciar minha carreira na área de tecnologia.</p>
 
 ###
 
